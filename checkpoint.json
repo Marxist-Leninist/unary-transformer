@@ -1,0 +1,29 @@
+{
+  "schema": "two-block-causal-unary-v1",
+  "weights": {
+    "embed": "|",
+    "read": "|",
+    "stop": "|",
+    "one": {
+      "Q": "-|",
+      "K": "-|",
+      "V": "|",
+      "O": "|",
+      "F": "|",
+      "G": "|"
+    },
+    "two": {
+      "Q": "-|",
+      "K": "-|",
+      "V": "",
+      "O": "|",
+      "F": "|",
+      "G": "|",
+      "X": "|"
+    }
+  },
+  "initial_next_token_loss": "||||||||||||",
+  "terminal_next_token_loss": "",
+  "tested_models_tally": "||",
+  "tested_rows_tally": "|||||||||||||"
+}
