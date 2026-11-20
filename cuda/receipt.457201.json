@@ -1,0 +1,1 @@
+{"seed":457201,"gpu":"NVIDIA GeForce GTX 1660 SUPER","sm":"7.5","exact_add":4096,"exact_qk":32768,"exact_argmax_rows":4096,"kernel_triples":64,"events_ms":427.35220,"own_buffers_bytes":9326592,"device_free_delta_bytes":12582912,"allocator_through_copies_wall_ms":436.45468,"status":"PASS"}

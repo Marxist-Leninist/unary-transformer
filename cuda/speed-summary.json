@@ -1,0 +1,21 @@
+{
+  "cpu_rows_per_sec": 1210284.939959998,
+  "measured_regime": "same host, 4096x8 score layouts, controls are exact literal pulse arrays, preallocated buffers; resident CUDA event vs host wall",
+  "median_ms": {
+    "cpu_pulse_ms": 3.384327,
+    "gpu_resident_ms": 6.6655865,
+    "gpu_transfer_included_ms": 8.5270925
+  },
+  "paired_rounds": 18,
+  "same_quality_speed_index": {
+    "cpu_pulse_ms": 100.0,
+    "gpu_resident_ms": 50.77313151663398,
+    "gpu_transfer_included_ms": 39.6891085677797
+  },
+  "seed_count": 2,
+  "slowdown_vs_cpu": {
+    "cpu_pulse_ms": 1.0,
+    "gpu_resident_ms": 1.9695456437867853,
+    "gpu_transfer_included_ms": 2.5195829185536742
+  }
+}
